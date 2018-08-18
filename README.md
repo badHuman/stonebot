@@ -5,7 +5,7 @@
 StoneBot is a bot for Discord inspired in Minecraft game! Skin rendering, server requests, image manipulation more!
 
 - Invite: https://discordapp.com/oauth2/authorize?client_id=462042396696379393&scope=bot&permissions=2146958591
-- Guild: Soon
+- Support Server: Soon
 - Website: https://stonebot.netlify.com/
 - GitHub: https://github.com/moustacheminer/discordmail
 
