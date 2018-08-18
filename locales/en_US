@@ -1,5 +1,5 @@
 {
-	"nowords": "You gave no word/words to write in image!",
+  "nowords": "You gave no word/words to write in image!",
   "youmust": "You must provide a Minecraft player username to search the",
   "youmust2": "You must provide a valid Minecraft server IP!",
   "youmust3": "You must provide a Minecraft player username!",
