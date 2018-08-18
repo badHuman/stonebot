@@ -30,8 +30,6 @@
 
 <h2 id="onlydevelopercommands">Only Developer Commands</h2>
 
-<h3 id="reloadsaytestserverlistserverinvites">reload, say, test, serverlist, serverinvites, eval</h3>
-
 <h2 id="mudandoalinguagemdobotparaportugus">Mudando a linguagem do bot para Português</h2>
 
 <h3 id="oservidorprecisaestarnaregiobrasil">O servidor precisa estar na região "Brasil"</h3>
