@@ -12,7 +12,7 @@ StoneBot is a bot for Discord inspired in Minecraft game! Skin rendering, server
 ---
 
 ## How uses StoneBot?
-It's simple, just type \`/mc help\` in Discord server chat and the bot shows the help!
+It's simple, just type `/mc help` in Discord server chat and the bot shows the help!
 
 ## Translations
 
