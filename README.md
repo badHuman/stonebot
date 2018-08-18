@@ -1,5 +1,7 @@
-# StoneBot - Minecraft Discord Bot
 ![StoneBot](https://cdn.discordapp.com/avatars/462042396696379393/2accc075574a37dd21604579d156e73e.png)
+
+# StoneBot - Minecraft Discord Bot
+
 StoneBot is a bot for Discord inspired in Minecraft game! Skin rendering, server requests, image manipulation more!
 
 - Invite: https://discordapp.com/oauth2/authorize?client_id=462042396696379393&scope=bot&permissions=2146958591
@@ -28,4 +30,4 @@ Description  | Location
 ------------ | ----------------------
 General Text | `locales/{code}.json`
 
-######README.md inspired by https://github.com/moustacheminer/discordmail/
+###### README.md inspired by https://github.com/moustacheminer/discordmail/
