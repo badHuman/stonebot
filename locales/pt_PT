@@ -86,5 +86,6 @@
   "custom": "(Customizado)",
   "hypixelerror": "Não foi possível encontrar as informações desse usuário no banco de dados do Hypixel, verifique se o nome foi inserido corretamente!",
   "hypixelerror2": "Não foi possível encontrar as informações dessa guilda no banco de dados do Hypixel, verifique se o nome foi inserido corretamente!",
-  "hypixelCorrectUsage": "**Uso Correto:** */mc hypixel {player/guild/watchdog} {pesquisa}*"
+  "hypixelCorrectUsage": "**Uso Correto:** */mc hypixel {player/guild/watchdog} {pesquisa}*",
+  "momentlocale": "pt"
 }
