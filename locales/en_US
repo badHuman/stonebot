@@ -86,5 +86,6 @@
   "custom": "(Custom)",
   "hypixelerror": "The informations from this user can not be found in the Hypixel database, make sure the name is spelled correctly!",
   "hypixelerror2": "The informations from this guild can not be found in the Hypixel database, make sure the name is spelled correctly!",
-  "hypixelCorrectUsage": "**Correct Usage:** */mc hypixel {player/guild/watchdog} {search}*"
+  "hypixelCorrectUsage": "**Correct Usage:** */mc hypixel {player/guild/watchdog} {search}*",
+  "momentlocale": "en"
 }
