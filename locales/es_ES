@@ -87,6 +87,7 @@
     "hypixelerror": "La información de este usuario no se puede encontrar en la base de datos de Hypixel, ¡asegúrese de que el nombre esté escrito correctamente!",
     "hypixelerror2": "La información de este servidor no se puede encontrar en la base de datos de Hypixel, ¡asegúrese de que el nombre esté escrito correctamente!",
     "hypixelCorrectUsage": "**Utilización correcta:** */mc hypixel {player/guild/watchdog} {search}*",
+    "momentlocale": "es-es",
     "totalbans": "Bans totales",
     "lastmin": "Tiempo del último ban",
     "dailybans": "Bans diarios"
