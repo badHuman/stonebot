@@ -23,7 +23,7 @@ Language               | Code      | Progress       | Translator(s)
 English (USA)          | en-us     | Done           | [@henrythedeveloper](https://github.com/henrythedeveloper) (Henry#8481)
 Portuguese (Brazil)    | pt-br     | Done           | [@henrythedeveloper](https://github.com/henrythedeveloper) (Henry#8481)
 Portuguese (Portugal)  | pt-pt     | Done           | [@henrythedeveloper](https://github.com/henrythedeveloper) (Henry#8481)
-Portuguese (Portugal)  | es-es     | Done           | [@Drylotrans](https://github.com/Drylotrans) (Daviid#2006)
+Spanish (Spain)        | es-es     | Done           | [@Drylotrans](https://github.com/Drylotrans) (Daviid#2006)
 
 Translations required:
 
