@@ -1,4 +1,4 @@
-![StoneBot](https://cdn.discordapp.com/avatars/462042396696379393/2accc075574a37dd21604579d156e73e.png)
+![StoneBot](https://cdn.discordapp.com/icons/474991601572118532/2accc075574a37dd21604579d156e73e.png?size=2048)
 
 # StoneBot - Minecraft Discord Bot
 
