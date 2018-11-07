@@ -20,10 +20,10 @@ Help StoneBot travel the world!
 
 Language               | Code      | Progress       | Translator(s)
 ---------------------- | --------- | -------------- | --------------------------
-English (USA)          | en-us     | Done           | [@henrythedeveloper](https://github.com/henrythedeveloper) (Henry#8481)
-Portuguese (Brazil)    | pt-br     | Done           | [@henrythedeveloper](https://github.com/henrythedeveloper) (Henry#8481)
-Portuguese (Portugal)  | pt-pt     | Done           | [@henrythedeveloper](https://github.com/henrythedeveloper) (Henry#8481)
-Spanish (Spain)        | es-es     | Done           | [@Drylotrans](https://github.com/Drylotrans) (Daviid#2006)
+English (USA)          | en-us     | Done           | [@henrythedeveloper](https://github.com/henrythedeveloper)
+Portuguese (Brazil)    | pt-br     | Done           | [@henrythedeveloper](https://github.com/henrythedeveloper)
+Portuguese (Portugal)  | pt-pt     | Done           | [@henrythedeveloper](https://github.com/henrythedeveloper)
+Spanish (Spain)        | es-es     | Done           | [@Drylotrans](https://github.com/Drylotrans)
 
 Translations required:
 
