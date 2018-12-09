@@ -16,19 +16,13 @@ It's simple, just type `/mc help` in Discord server chat and the bot shows the h
 
 ## Translations
 
-~~Help StoneBot travel the world!~~
-
 Language               | Code      | Progress       | Translator(s)
 ---------------------- | --------- | -------------- | --------------------------
 English (USA)          | en-us     | Done           | [@henrythedeveloper](https://github.com/henrythedeveloper)
-Portuguese (Brazil)    | pt-br     | Done           | [@henrythedeveloper](https://github.com/henrythedeveloper)
+English (PIRATE)       | en-pt     | Done           | [@henrythedeveloper](https://github.com/henrythedeveloper)
 Portuguese (Portugal)  | pt-pt     | Done           | [@henrythedeveloper](https://github.com/henrythedeveloper)
+Portuguese (Brazil)    | pt-br     | Done           | [@henrythedeveloper](https://github.com/henrythedeveloper)
+Portuguese Funk (BR)   | fk-br     | Done           | [@henrythedeveloper](https://github.com/henrythedeveloper)
 Spanish (Spain)        | es-es     | Done           | [@Drylotrans](https://github.com/Drylotrans)
-
-~~Translations required:~~
-
-~~Description  | Location~~
-~~------------ | ----------------------~~
-~~General Text | `locales/{code}.json`~~
 
 ###### README.md inspired by https://github.com/moustacheminer/discordmail/
