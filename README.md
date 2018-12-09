@@ -16,7 +16,7 @@ It's simple, just type `/mc help` in Discord server chat and the bot shows the h
 
 ## Translations
 
-Help StoneBot travel the world!
+~~Help StoneBot travel the world!~~
 
 Language               | Code      | Progress       | Translator(s)
 ---------------------- | --------- | -------------- | --------------------------
@@ -25,10 +25,10 @@ Portuguese (Brazil)    | pt-br     | Done           | [@henrythedeveloper](https
 Portuguese (Portugal)  | pt-pt     | Done           | [@henrythedeveloper](https://github.com/henrythedeveloper)
 Spanish (Spain)        | es-es     | Done           | [@Drylotrans](https://github.com/Drylotrans)
 
-Translations required:
+~~Translations required:~~
 
-Description  | Location
+~~Description  | Location
 ------------ | ----------------------
-General Text | `locales/{code}.json`
+General Text | `locales/{code}.json`~~
 
 ###### README.md inspired by https://github.com/moustacheminer/discordmail/
