@@ -27,8 +27,8 @@ Spanish (Spain)        | es-es     | Done           | [@Drylotrans](https://gith
 
 ~~Translations required:~~
 
-~~Description  | Location
------------- | ----------------------
-General Text | `locales/{code}.json`~~
+~~Description  | Location~~
+~~------------ | ----------------------~~
+~~General Text | `locales/{code}.json`~~
 
 ###### README.md inspired by https://github.com/moustacheminer/discordmail/
